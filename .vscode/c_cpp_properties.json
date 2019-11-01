@@ -1,0 +1,36 @@
+{
+    "configurations": [
+        {
+            "name": "cellar-core",
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "compilerPath": "/bin/gcc",
+            "windowsSdkVersion": "10.0.17763.0",
+            "intelliSenseMode": "msvc-x64",
+            "cStandard": "c11",
+            "cppStandard": "c++17",
+            "includePath": [
+                "${workspaceFolder}",
+                "/usr/include/",
+                "/usr/include/c++/9.1.0/*",
+                "/usr/include/c++/9.1.0",
+                "/usr/lib/gcc/x86_64-pc-linux-gnu/9.1.0/include/*",
+                "/usr/lib/gcc/x86_64-pc-linux-gnu/9.1.0/include"
+            ],
+            "browse": {
+                "path": [
+                "${workspaceFolder}",
+                "/usr/include/",
+                "/usr/include/c++/9.1.0/*",
+                "/usr/include/c++/9.1.0",
+                "/usr/lib/gcc/x86_64-pc-linux-gnu/9.1.0/include/*",
+                "/usr/lib/gcc/x86_64-pc-linux-gnu/9.1.0/include"
+               ]
+        }
+        }
+    ],
+    "version": 4
+}
